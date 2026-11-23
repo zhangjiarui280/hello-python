@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+todos.json
+自测_todos.json
+_test_org/
